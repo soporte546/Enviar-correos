@@ -72,7 +72,7 @@ if ($SMTP_USER === '' || $SMTP_PASS === '') {
 }
 
 // ============ DATOS DEL CORREO ============
- $asunto  = 'Captura de inventario de equipo de cómputo';
+ $asunto  = 'Validacion de Inventario por Usuario';
  $rutaPDF = __DIR__ . '/Instructivo.pdf'; // ← nombre real de tu PDF
 
 // ============ DESTINATARIOS PRINCIPALES (TO) ============
