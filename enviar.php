@@ -125,6 +125,8 @@ if (empty($ccDestinatarios)) {
 
 <p>Adicional a este correo, para mantener un ritmo de trabajo y no mezclar información, en este punto mantendremos separados los datos de <strong>celulares</strong> en otro formulario para organizar mejor la información. Una vez concluyamos con los equipos, les haremos llegar el otro formulario, más corto.</p>
 
+<p><strong>Si tienes MAC omite estos pasos y ponte en contacto por whatsapp a este numero 81 1783 8621</strong><br>
+
 <p>Saludos!!</p>
 </body>
 </html>
